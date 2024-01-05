@@ -5,7 +5,7 @@ from GPTSummarizer import GPTSummarizer
 # Replace with your actual YouTube API Key and desired Channel ID
 YouTube_API_KEY = 'AIzaSyAH73d14VW5PisEXd0j_sOblNvuscrUC2Q'
 Matt_Wolfe_CHANNEL_ID = 'UChpleBmo18P08aKCIgti38g'
-OpenAI_API_KEY = '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'
+OpenAI_API_KEY = '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'
 
 def main():
     Matt_Wolfe = YouTubeScanner(YouTube_API_KEY , Matt_Wolfe_CHANNEL_ID)
